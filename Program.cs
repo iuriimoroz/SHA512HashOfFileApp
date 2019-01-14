@@ -6,7 +6,7 @@ namespace SHA512HashOfFileApp
     {
         static void Main(string[] args)
         {
-            //Decraration of main variables
+            //Declaration of main variables
             string filePath;
             string SHA512Hash;
 
